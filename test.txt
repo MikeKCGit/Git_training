@@ -4,3 +4,5 @@ Add new line
 Add new line for test
 
 Branch
+
+Test rebase
