@@ -1,3 +1,4 @@
 Test git
 
 Hello First change
+Test merge
