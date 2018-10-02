@@ -1,4 +1,3 @@
 Test git
 
-Hello First change
-Test merge
+Training git push
