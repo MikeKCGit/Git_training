@@ -1,2 +1,2 @@
 # Git_training
-Training git technologies
+Training git technologies (Git Bash)
